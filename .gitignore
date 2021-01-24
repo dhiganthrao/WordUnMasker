@@ -1,0 +1,4 @@
+GloVe/
+*.zip
+*.vec
+.ipynb_checkpoints/
